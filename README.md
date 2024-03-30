@@ -34,6 +34,7 @@ for row in range(10):
     for col in range(10):
         print(sm.cell(row, col), end='')
     print()
+    
 ..........
 ..........
 *.........
@@ -55,6 +56,7 @@ for row in range(10):
     for col in range(10):
         print(sm.cell(row, col), end='')
     print()
+
 
 ..........
 **........
@@ -79,6 +81,7 @@ for row in range(10):
     for col in range(10):
         print(sm.cell(row, col), end='')
     print()
+    
 x*......*x
 **......**
 ..........
